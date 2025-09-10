@@ -1,6 +1,6 @@
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub :)
 
-Me chamo **[Enzo Mihai]**, e estou dando meus primeiros passos no mundo da programação com **Python 🐍**!
+Me chamo **Enzo Mihai**, e estou dando meus primeiros passos no mundo da programação com **Python 🐍**!
 
 ---
 
