@@ -2,6 +2,7 @@
 
 Me chamo **Enzo Mihai**, e estou dando meus primeiros passos no mundo da programação com **Python 🐍**!
 Estou no Segundo ano do ensino médio e me interesso muito por **tecnologia** 
+Minha paixão é o **futebol**, eu torço pro clube **São Paulo** e meu jogador favorito é o GOAT **Luciano**
 
 ---
 
